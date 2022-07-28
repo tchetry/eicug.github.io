@@ -126,7 +126,7 @@ Information about previous leadership teams of the Steering Committee can be fou
 
 ---
 
-#### Diversity and Inclusion Committee
+#### Diversity Equity and Inclusion Committee
 * Chair: Taya Chetry (Florida International University, USA)
 * Members
   * Paul Gueye (Michigan State University, USA)
